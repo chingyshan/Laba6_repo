@@ -1,0 +1,3 @@
+/home/chingyshan/Documents/453502/ОАиП/LR66/Task1/build/CMakeFiles/Task_1.dir
+/home/chingyshan/Documents/453502/ОАиП/LR66/Task1/build/CMakeFiles/edit_cache.dir
+/home/chingyshan/Documents/453502/ОАиП/LR66/Task1/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic -Wl,--dependency-file=CMakeFiles/Task_3.dir/link.d CMakeFiles/Task_3.dir/task3.cpp.o CMakeFiles/Task_3.dir/functions.cpp.o -o Task_3
